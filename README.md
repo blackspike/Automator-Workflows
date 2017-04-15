@@ -16,6 +16,20 @@ You'll need to add an alias to to Blender in your `~/.bash_profile`
 
 Prompts for a project name and creates a folder structure
 
+````
+└── Project
+    ├── 01\ Wireframes
+    │   └── Ω\ Archived
+    ├── 02\ Artwork
+    │   ├── 01\ Mockups
+    │   │   └── Ω\ Archived
+    │   ├── 02\ Assets
+    │   └── 03\ Stuff
+    ├── 03\ Supplied
+    ├── 04\ Docs
+    └── 05\ Backups
+````
+
 ![Project structure workflow](https://raw.githubusercontent.com/blackspikeltd/Automator-Workflows/master/Screenshots/Project%20structure.png?raw=true)
 
 ## Get external ip.workflow

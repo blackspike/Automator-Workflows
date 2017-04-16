@@ -4,11 +4,13 @@ Some handy workflow actions
 
 ## Blender Render.workflow
 
-Use a Folder Action + Dropbox to watch and renders added .blend files with a timestamp.
+Use a Folder Action + Dropbox to watch for .blend files and render them and save the output with a timestamp.
 
 You'll need to add an alias to to Blender in your `~/.bash_profile`
 
 `alias blender='/Applications/Blender.app/Contents/MacOS/blender'`
+
+![Blender Render demo](https://raw.githubusercontent.com/blackspikeltd/Automator-Workflows/master/Screenshots/blender%20render.gif?raw=true)
 
 ![Blender Render workflow](https://raw.githubusercontent.com/blackspikeltd/Automator-Workflows/master/Screenshots/blender%20render.png?raw=true)
 
@@ -29,6 +31,8 @@ Prompts for a project name and creates a folder structure
     ├── 04\ Docs
     └── 05\ Backups
 ````
+
+![Project structure demo](https://raw.githubusercontent.com/blackspikeltd/Automator-Workflows/master/Screenshots/Project%20structure.gif?raw=true)
 
 ![Project structure workflow](https://raw.githubusercontent.com/blackspikeltd/Automator-Workflows/master/Screenshots/Project%20structure.png?raw=true)
 
